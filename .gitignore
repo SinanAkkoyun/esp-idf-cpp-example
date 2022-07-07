@@ -1,3 +1,5 @@
 build/
 .metadata/
 .vscode/BROWSE.*
+
+managed_components/
